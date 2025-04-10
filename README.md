@@ -3,7 +3,7 @@
 
 ## 📑 Descrição
 
-Jogo do número secreto
+Jogo do número secreto.
 
 ## 🎯 Funcionalidades
 
